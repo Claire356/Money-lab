@@ -1,5 +1,8 @@
 # Money Labs 💰
 
+> 🤖 **Built with AI-native workflow** — Lovable AI (primary builder) + Cursor + OpenAI GPT + Google Gemini
+> This project was developed using Vibe Coding methodology: product spec → AI-generated full-stack code → iterative prompt refinement → production deployment.
+
 **A Gamified Financial Education Platform Powered by AI**
 
 Money Labs transforms financial learning into an engaging, interactive experience through daily predictions, AI-powered insights, and a comprehensive gamification system. Users develop real-world financial literacy while competing on leaderboards and earning achievements.
